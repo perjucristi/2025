@@ -1,0 +1,26 @@
+From dc639794d8a651a7d161cbed8dd839cad086b07c Mon Sep 17 00:00:00 2001
+From: "DESKTOP-2FFTU4D\\Cristian" <crisperju@gmail.com>
+Date: Wed, 22 Oct 2025 11:14:07 +0300
+Subject: [PATCH] sdasd
+
+---
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 512bf00..3426e0f 100644
+--- a/README.md
++++ b/README.md
+@@ -1,4 +1,6 @@
+ # 2025
+  
+ 
+- asdasdasd
+\ No newline at end of file
++ asdasdasd
++ dasdasdasd
++ daSDadas
+\ No newline at end of file
+-- 
+2.51.1.windows.1
+
